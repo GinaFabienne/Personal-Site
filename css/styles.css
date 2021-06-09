@@ -8,31 +8,18 @@ h1 {
 }
 
 .top-container {
-    background-color: #f6f6f6;
-    border-style: solid;
-    border-color: rosybrown;
-    border-width: 10px;
-    height: 200px;
-    width: 200px;
-    padding: 20px;
+   
+    
 }
 
 .middle-container {
-    width: 200px;
-    height: 200px;
+    
     background: red;
-    margin-left: 260px;
-    border-style: solid;
-    border-color: royalblue;
-    border-width: 20px;
+    
 } 
 
 .bottom-container {
-    width: 200px;
-    height: 200px;
+    
     background: blue;
-    margin-left: 500px;
-    border-style: solid;
-    border-color: royalblue;
-    border-width: 10px;
+    
 }
